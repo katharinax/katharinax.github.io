@@ -3,7 +3,7 @@ layout: post
 title: A data scientist is a statistician who lives in San Francisco - Part II
 ---
 
-This is the second part of my take on whether statisticians and data scientists are the same. This part is on philosophy. You can find the first part [here](2017-4-17-DS-vs-Stats1.md). 
+This is the second part of my take on whether statisticians and data scientists are the same. This part is on philosophy. You can find the first part [here](http://katharinax.github.io/DS-vs-Stats1/). 
 
 # Philosophy
 
