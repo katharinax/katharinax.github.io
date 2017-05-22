@@ -14,7 +14,7 @@ text-align:center;
 }
 </style><img src="http://i.imgur.com/GXhNWkX.png" width="800"></div>
 
-A live demo showcasing interactions with the sliders and collapsing/expanding the trees can be found on YouTube [here](https://www.youtube.com/watch?v=D8_yesxONsM).
+A live demo showcasing interactions with the slider as well as collapsing and expanding the trees can be found on YouTube [here](https://www.youtube.com/watch?v=D8_yesxONsM).
 
 The random forest model came from a quick and dirty binary classifier that differentiated the Python versions (2.7 or 3.x) of 14,000 Python questions scraped from [Stack Overflow](https://stackoverflow.com/). The classifier had a petty area-under-curve (AUC) of roughly 69% on the hold-out dataset, but it served the purpose of my first adventure into the frontend world.
 
