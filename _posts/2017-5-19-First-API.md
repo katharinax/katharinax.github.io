@@ -9,10 +9,10 @@ I've recently built a little Python Flask API in an attempt to learn HTML, CSS, 
 #this {
 border-style:solid; 
 border-color:#000000; 
-border-width: 2px;
+border-width: 1px;
 text-align:center;
 }
-</style><img src="http://i.imgur.com/RkWPvsh.png" width="1000"></div>
+</style><img src="http://i.imgur.com/GXhNWkX.png" width="800"></div>
 
 A live demo showcasing interactions with the sliders and collapsing/expanding the trees can be found on YouTube [here](https://www.youtube.com/watch?v=D8_yesxONsM).
 
