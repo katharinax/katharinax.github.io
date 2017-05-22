@@ -5,7 +5,14 @@ title: Random Forest Tree Illustrator API
 
 I've recently built a little Python Flask API in an attempt to learn HTML, CSS, and JavaScript. My API illustrated random forest trees using interactive D3.js objects and AJAX POST requests.
 
-<div style="border-style:solid; text-align:center"><img src="http://i.imgur.com/RkWPvsh.png" width="500"></div>
+<div id="this"><style> 
+#this {
+border-style:solid; 
+border-color:#000000; 
+border-width: 2px;
+text-align:center;
+}
+</style><img src="http://i.imgur.com/RkWPvsh.png" width="1000"></div>
 
 A live demo showcasing interactions with the sliders and collapsing/expanding the trees can be found on YouTube [here](https://www.youtube.com/watch?v=D8_yesxONsM).
 
