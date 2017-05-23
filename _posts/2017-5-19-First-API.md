@@ -3,12 +3,12 @@ layout: post
 title: Random Forest Tree Illustrator API
 ---
 
-I've recently built a little Python Flask API in an attempt to learn HTML, CSS, and JavaScript. My API illustrated random forest trees using interactive D3.js objects and AJAX POST requests.
+I've recently built a little Python Flask API in an attempt to learn HTML, CSS, JavaScript, and APP deployment. My API ([Yes! Click me! It works!](https://katharina-rfd3.herokuapp.com/)) illustrated random forest trees using interactive D3.js objects and AJAX POST requests.
 
-<div id="this"><style> 
+<div id="this"><style>
 #this {
-border-style:solid; 
-border-color:#000000; 
+border-style:solid;
+border-color:#000000;
 border-width: 1px;
 text-align:center;
 }
